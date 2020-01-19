@@ -43,7 +43,7 @@
             android:layout_weight="1"/>
 
         <com.gauravk.bubblenavigation.BubbleToggleView
-            android:id="@+id/gym_booking"
+            android:id="@+id/starred"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
